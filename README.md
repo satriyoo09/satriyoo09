@@ -13,14 +13,14 @@
 
 ## 💮 Profile Details
 
-- 👤 **Name:** Satriyo
-- 🎂 **Age:** 16 Years Old
-- 🎒 **Class:** XPPLG6 (Software Product Development)
-- 🏫 **School:** SMK Telkom Purwokerto
-- 📍 **Location:** Adisana - Situmang - Banyumas, Jawa Tengah, Indonesia 🇮🇩
-- 🎯 **Goal:** Becoming a Game Developer 🎮
-- 🎮 **Hobby:** Bermain Game
-- 💖 **Waifus:** March 7th, Evernight, Hysiles, Rimuru, Lilith
+- **Name:** Satriyo
+- **Age:** 16 Years Old
+- **Class:** XPPLG6 (Software Product Development)
+- **School:** SMK Telkom Purwokerto
+- **Location:** Adisana - Situmang - Banyumas, Jawa Tengah, Indonesia 🇮🇩
+- **Goal:** Becoming a Game Developer 🎮
+- **Hobby:** Bermain Game
+- **Waifu:** March 7th, Evernight, Hysiles, Rimuru, Lilith
 
 ---
 
@@ -29,16 +29,6 @@
 *Currently mastering and exploring:*
 
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white&color=8B0000)](https://godotengine.org/)
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&color=5C0000)](https://unity.com/)
-
----
-
-## ⚔️ Tech Arsenal
-
-- 💻 **Languages:** C#, GDScript, Python, TypeScript
-- ⚙️ **Engines:** Unity, Godot
-- 🧠 **AI & ML:** TensorFlow, PyTorch
-- 🛠️ **Tools:** Git, GitHub, VS Code
 
 ---
 
